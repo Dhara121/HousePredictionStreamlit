@@ -1,7 +1,3 @@
-Certainly. Here's a **short, clean, and professional `README.md`** for your project — no emojis or symbols:
-
----
-
 ## House Price Predictor
 
 This project is a machine learning-based web application that predicts house sale prices based on key property features. It uses a Random Forest model trained on the Kaggle House Prices dataset and provides an interactive UI built with Streamlit. The app is fully containerized using Docker for easy deployment.
