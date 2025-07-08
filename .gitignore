@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.pkl
+*.csv
+.venv/
+venv/
+.env
+.ipynb_checkpoints/
+data/*
+!data/train.csv
+!data/test.csv
+models/*
+!models/house_price_model.pkl
