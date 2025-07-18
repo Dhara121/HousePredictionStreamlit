@@ -9,5 +9,4 @@ venv/
 data/*
 !data/train.csv
 !data/test.csv
-models/*
-!models/house_price_model.pkl
+
